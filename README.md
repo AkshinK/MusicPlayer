@@ -7,3 +7,8 @@ Our application is a music player for Android devices with extra features in whi
 It allows users to concurrently access the songs in every platform.
 
 Enjoy using it!
+
+
+To build the project use:
+./gradlew assembleDebug
+
