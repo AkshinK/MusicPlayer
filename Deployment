@@ -1,0 +1,4 @@
+Project is regularly deployed to the staging area in the CI system. 
+All the artifacts are stored and can be accesed via CI system in the Artifact Repository directory.
+
+To run the program download the generated apk file, install it on the emulator, and run!
